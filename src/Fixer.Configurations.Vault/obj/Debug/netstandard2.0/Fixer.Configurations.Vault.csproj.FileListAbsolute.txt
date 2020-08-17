@@ -1,0 +1,11 @@
+F:\Projects\Ozone\Fixer\src\Fixer.Configurations.Vault\src\Fixer.Configurations.Vault\bin\Debug\netstandard2.0\Fixer.Configurations.Vault.deps.json
+F:\Projects\Ozone\Fixer\src\Fixer.Configurations.Vault\src\Fixer.Configurations.Vault\bin\Debug\netstandard2.0\Fixer.Configurations.Vault.dll
+F:\Projects\Ozone\Fixer\src\Fixer.Configurations.Vault\src\Fixer.Configurations.Vault\bin\Debug\netstandard2.0\Fixer.Configurations.Vault.pdb
+F:\Projects\Ozone\Fixer\src\Fixer.Configurations.Vault\src\Fixer.Configurations.Vault\bin\Debug\netstandard2.0\Fixer.dll
+F:\Projects\Ozone\Fixer\src\Fixer.Configurations.Vault\src\Fixer.Configurations.Vault\bin\Debug\netstandard2.0\Fixer.pdb
+F:\Projects\Ozone\Fixer\src\Fixer.Configurations.Vault\src\Fixer.Configurations.Vault\obj\Debug\netstandard2.0\Fixer.Configurations.Vault.csprojAssemblyReference.cache
+F:\Projects\Ozone\Fixer\src\Fixer.Configurations.Vault\src\Fixer.Configurations.Vault\obj\Debug\netstandard2.0\Fixer.Configurations.Vault.AssemblyInfoInputs.cache
+F:\Projects\Ozone\Fixer\src\Fixer.Configurations.Vault\src\Fixer.Configurations.Vault\obj\Debug\netstandard2.0\Fixer.Configurations.Vault.AssemblyInfo.cs
+F:\Projects\Ozone\Fixer\src\Fixer.Configurations.Vault\src\Fixer.Configurations.Vault\obj\Debug\netstandard2.0\Fixer.Configurations.Vault.csproj.CopyComplete
+F:\Projects\Ozone\Fixer\src\Fixer.Configurations.Vault\src\Fixer.Configurations.Vault\obj\Debug\netstandard2.0\Fixer.Configurations.Vault.dll
+F:\Projects\Ozone\Fixer\src\Fixer.Configurations.Vault\src\Fixer.Configurations.Vault\obj\Debug\netstandard2.0\Fixer.Configurations.Vault.pdb
